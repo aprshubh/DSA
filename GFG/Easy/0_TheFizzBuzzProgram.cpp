@@ -1,7 +1,7 @@
 /**
  * Problem Link : https://practice.geeksforgeeks.org/problems/the-fizzbuzz-program/1
  * Platform     : GFG
- * Difficulty   : Medium
+ * Difficulty   : Easy
  */
 
 #include <bits/stdc++.h>

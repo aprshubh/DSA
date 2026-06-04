@@ -1,7 +1,7 @@
 /**
  * Problem Link : https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
  * Platform     : GFG
- * Difficulty   : Medium
+ * Difficulty   : Easy
  */
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 /**
  * Problem Link : https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
  * Platform     : GFG
- * Difficulty   : Medium
+ * Difficulty   : Easy
  */
 
 #include <bits/stdc++.h>

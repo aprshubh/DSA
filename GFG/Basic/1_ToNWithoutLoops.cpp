@@ -1,7 +1,7 @@
 /**
  * Problem Link : https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1
  * Platform     : GFG
- * Difficulty   : Medium
+ * Difficulty   : Basic
  */
 
 #include <bits/stdc++.h>

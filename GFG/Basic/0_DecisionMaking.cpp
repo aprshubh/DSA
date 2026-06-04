@@ -1,7 +1,7 @@
 /**
  * Problem Link : https://practice.geeksforgeeks.org/problems/decision-making/1
  * Platform     : GFG
- * Difficulty   : Medium
+ * Difficulty   : Basic
  */
 
 #include <bits/stdc++.h>

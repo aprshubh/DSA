@@ -1,7 +1,7 @@
 /**
  * Problem Link : https://practice.geeksforgeeks.org/problems/second-largest3735/1
  * Platform     : GFG
- * Difficulty   : Medium
+ * Difficulty   : Easy
  */
 
 #include <bits/stdc++.h>
