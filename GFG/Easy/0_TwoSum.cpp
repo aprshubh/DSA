@@ -1,0 +1,26 @@
+/**
+ * Problem Link : https://practice.geeksforgeeks.org/problems/key-pair5616/1
+ * Platform     : GFG
+ * Difficulty   : Easy
+ */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+	public:
+	bool twoSum(vector<int>& arr, int target) {
+		unordered_set<int> st;
+		
+		for (int x : arr) {
+			if (st.count(target - x))
+				return true;
+			
+			st.insert(x);
+		}
+		
+		return false;
+		
+	}
+};
+
