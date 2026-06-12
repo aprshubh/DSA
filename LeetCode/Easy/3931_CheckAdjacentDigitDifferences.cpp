@@ -1,0 +1,19 @@
+/**
+ * Problem Link : https://leetcode.com/problems/check-adjacent-digit-differences/
+ * Platform     : LeetCode
+ * Difficulty   : Easy
+ */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    bool isAdjacentDiffAtMostTwo(string s) {
+
+        for(int i = 0;i<s.size()-1;i++){
+            if(abs(s[i]-s[i+1])>2) return false;
+        }return true;
+        
+    }
+};
