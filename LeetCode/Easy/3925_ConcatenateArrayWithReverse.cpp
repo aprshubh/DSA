@@ -1,0 +1,19 @@
+/**
+ * Problem Link : https://leetcode.com/problems/concatenate-array-with-reverse/
+ * Platform     : LeetCode
+ * Difficulty   : Easy
+ */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    vector<int> concatWithReverse(vector<int>& nums) {
+        
+        for(int i = nums.size()-1;i>=0;i--){
+            nums.push_back(nums[i]);
+        }return nums;
+        
+    }
+};
