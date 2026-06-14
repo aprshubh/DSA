@@ -1,5 +1,5 @@
 /**
- * Problem Link : https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1
+ * Problem Link : https://practice.geeksforgeeks.org/problems/majority-vote/1
  * Platform     : GFG
  * Difficulty   : Medium
  */
@@ -8,38 +8,19 @@
 using namespace std;
 
 class Solution {
-	public:
-	int majorityElement(vector<int>& arr) {
-		// 		std::unordered_map<int, int> mp;
-		// 		for (int x : arr) {
-		// 			mp[x]++;
-		// 		}
-		// 		for (auto [key, value] : mp) {
-		// 			if (value > arr.size()/2)
-		// 				return key;
-		// 		} return - 1;
-		
-		int candidate = -1;
-		int count = 0;
-		
-		for (int x : arr) {
-			if (count == 0)
-				candidate = x;
-			
-			if (x == candidate)
-				count++;
-			else
-				count--;
-		}
-		
-		int fre = 0;
-		
-		for (int x : arr) {
-			if (x == candidate)
-				fre++;
-		}
-		
-		return (fre > arr.size() / 2) ? candidate : -1;
-	}
+  public:
+    vector<int> findMajority(vector<int>& arr) {
+        // Code here
+        if (arr.size()<3) arr;
+        
+        vector <int> ans;
+        unordered_map<int,int> mp;
+        
+        int n = arr.size()/3;
+        for(int x : arr) mp[x]++;
+        for(auto[key,value]:mp){
+            if (value>n)ans.push_back(key);
+        }if(ans.size()==2 && ans[1]<ans[0]) swap(ans[0],ans[1]);
+        return ans;
+    }
 };
-
