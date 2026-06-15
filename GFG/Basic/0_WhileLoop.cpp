@@ -1,5 +1,5 @@
 /**
- * Problem Link : https://practice.geeksforgeeks.org/problems/print-table0303/1
+ * Problem Link : https://practice.geeksforgeeks.org/problems/while-loop/1
  * Platform     : GFG
  * Difficulty   : Basic
  */
