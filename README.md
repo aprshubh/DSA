@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 6 | 3 | 3 | 0 |
+| LeetCode | 7 | 3 | 4 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **6** | **3** | **3** | **0** |
+| **Total** | **7** | **3** | **4** | **0** |
 
 ## Solved Problems
 
@@ -21,4 +21,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/16_3SumClosest.cpp) |
 | 5 | [18. 4Sum](https://leetcode.com/problems/4sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/18_4Sum.cpp) |
 | 6 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
+| 7 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
 <!-- COMMITDSA_END -->
