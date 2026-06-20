@@ -15,5 +15,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/74_SearchA2DMatrix.cpp) |
+| 1 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/16_3SumClosest.cpp) |
 <!-- COMMITDSA_END -->
