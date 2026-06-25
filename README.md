@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 26 | 17 | 9 | 0 |
+| LeetCode | 27 | 17 | 10 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **26** | **17** | **9** | **0** |
+| **Total** | **27** | **17** | **10** | **0** |
 
 ## Solved Problems
 
@@ -41,4 +41,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 24 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
 | 25 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
 | 26 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
+| 27 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
 <!-- COMMITDSA_END -->
