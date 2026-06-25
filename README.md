@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 21 | 14 | 7 | 0 |
+| LeetCode | 22 | 14 | 8 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **21** | **14** | **7** | **0** |
+| **Total** | **22** | **14** | **8** | **0** |
 
 ## Solved Problems
 
@@ -36,4 +36,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 19 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
 | 20 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
 | 21 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
+| 22 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
 <!-- COMMITDSA_END -->
