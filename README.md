@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 34 | 22 | 12 | 0 |
+| LeetCode | 35 | 23 | 12 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **34** | **22** | **12** | **0** |
+| **Total** | **35** | **23** | **12** | **0** |
 
 ## Solved Problems
 
@@ -28,25 +28,26 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 11 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/338_CountingBits.cpp) |
 | 12 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/345_ReverseVowelsOfAString.cpp) |
 | 13 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/35_SearchInsertPosition.cpp) |
-| 14 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/374_GuessNumberHigherOrLower.cpp) |
-| 15 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/392_IsSubsequence.cpp) |
-| 16 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/58_LengthOfLastWord.cpp) |
-| 17 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/605_CanPlaceFlowers.cpp) |
-| 18 | [66. Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/66_PlusOne.cpp) |
-| 19 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/67_AddBinary.cpp) |
-| 20 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
-| 21 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/744_FindSmallestLetterGreaterThanTarget.cpp) |
-| 22 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/933_NumberOfRecentCalls.cpp) |
-| 23 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/16_3SumClosest.cpp) |
-| 24 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1657_DetermineIfTwoStringsAreClose.cpp) |
-| 25 | [18. 4Sum](https://leetcode.com/problems/4sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/18_4Sum.cpp) |
-| 26 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2300_SuccessfulPairsOfSpellsAndPotions.cpp) |
-| 27 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.cpp) |
-| 28 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2390_RemovingStarsFromAString.cpp) |
-| 29 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
-| 30 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
-| 31 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
-| 32 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
-| 33 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
-| 34 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
+| 14 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/367_ValidPerfectSquare.cpp) |
+| 15 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/374_GuessNumberHigherOrLower.cpp) |
+| 16 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/392_IsSubsequence.cpp) |
+| 17 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/58_LengthOfLastWord.cpp) |
+| 18 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/605_CanPlaceFlowers.cpp) |
+| 19 | [66. Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/66_PlusOne.cpp) |
+| 20 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/67_AddBinary.cpp) |
+| 21 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
+| 22 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/744_FindSmallestLetterGreaterThanTarget.cpp) |
+| 23 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/933_NumberOfRecentCalls.cpp) |
+| 24 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/16_3SumClosest.cpp) |
+| 25 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1657_DetermineIfTwoStringsAreClose.cpp) |
+| 26 | [18. 4Sum](https://leetcode.com/problems/4sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/18_4Sum.cpp) |
+| 27 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2300_SuccessfulPairsOfSpellsAndPotions.cpp) |
+| 28 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.cpp) |
+| 29 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2390_RemovingStarsFromAString.cpp) |
+| 30 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
+| 31 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
+| 32 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
+| 33 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
+| 34 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
+| 35 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
 <!-- COMMITDSA_END -->
