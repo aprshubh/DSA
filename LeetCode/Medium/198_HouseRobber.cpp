@@ -11,16 +11,16 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         if(nums.size()==1) return nums[0];
-        int a = 0;
-        int b =nums[0];
-        int c = nums[1];
+        
+        int a =nums[0];
+        int b = max(nums[0],nums[1]);
+        
         for(int i = 2 ;i<nums.size();i++){
-            int d = nums[i]+max(a,b);
+            int c = max(b,nums[i]+a);
             a=b;
             b=c;
-            c=d;
 
-        }return max(c,b);
+        }return b;
         
     }
 };
