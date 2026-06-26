@@ -10,16 +10,20 @@ using namespace std;
 class Solution {
 public:
     int countNegatives(vector<vector<int>>& grid) {
-        int ans=0;
-        
-        for(int i = 0;i<grid.size();i++){
-            int left = 0;
-            int right = grid[i].size()-1;
-            while(left<=right){
-                int mid = left +((right-left)>>1);
-                if (grid[i][mid]<0) right = mid-1;
-                else left = mid+1;
-            }ans+=grid[i].size()-left;
-        }return ans;
+
+        int rows = grid.size();
+        int cols = grid[0].size() - 1;
+
+        int row = 0;
+        int col = cols;
+        int ans = 0;
+        while (row < rows && col >= 0) {
+            if (grid[row][col] < 0) {
+                ans += rows - row;
+                col--;
+            } else
+                row++;
+        }
+        return ans;
     }
 };
