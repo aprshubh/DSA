@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 40 | 28 | 12 | 0 |
+| LeetCode | 41 | 29 | 12 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **40** | **28** | **12** | **0** |
+| **Total** | **41** | **29** | **12** | **0** |
 
 ## Solved Problems
 
@@ -39,20 +39,21 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 22 | [66. Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/66_PlusOne.cpp) |
 | 23 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/67_AddBinary.cpp) |
 | 24 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/69_Sqrtx.cpp) |
-| 25 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
-| 26 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/744_FindSmallestLetterGreaterThanTarget.cpp) |
-| 27 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/746_MinCostClimbingStairs.cpp) |
-| 28 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/933_NumberOfRecentCalls.cpp) |
-| 29 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/16_3SumClosest.cpp) |
-| 30 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1657_DetermineIfTwoStringsAreClose.cpp) |
-| 31 | [18. 4Sum](https://leetcode.com/problems/4sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/18_4Sum.cpp) |
-| 32 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2300_SuccessfulPairsOfSpellsAndPotions.cpp) |
-| 33 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.cpp) |
-| 34 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2390_RemovingStarsFromAString.cpp) |
-| 35 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
-| 36 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
-| 37 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
-| 38 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
-| 39 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
-| 40 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
+| 25 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/70_ClimbingStairs.cpp) |
+| 26 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
+| 27 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/744_FindSmallestLetterGreaterThanTarget.cpp) |
+| 28 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/746_MinCostClimbingStairs.cpp) |
+| 29 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/933_NumberOfRecentCalls.cpp) |
+| 30 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/16_3SumClosest.cpp) |
+| 31 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1657_DetermineIfTwoStringsAreClose.cpp) |
+| 32 | [18. 4Sum](https://leetcode.com/problems/4sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/18_4Sum.cpp) |
+| 33 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2300_SuccessfulPairsOfSpellsAndPotions.cpp) |
+| 34 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.cpp) |
+| 35 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2390_RemovingStarsFromAString.cpp) |
+| 36 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
+| 37 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
+| 38 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
+| 39 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
+| 40 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
+| 41 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
 <!-- COMMITDSA_END -->
