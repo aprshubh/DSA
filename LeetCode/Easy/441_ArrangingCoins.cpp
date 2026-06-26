@@ -10,6 +10,13 @@ using namespace std;
 class Solution {
 public:
     int arrangeCoins(int n) {
-        return (-1 + sqrt(1+8*n))/2;
+
+        int left = 1;
+        int right = n;
+        while (left <= right) {
+            long mid = left + ((right-left)>>1);
+            if((mid*(mid+1))/2>n) right=mid-1;
+            else left=mid+1;
+        }return right;
     }
 };
