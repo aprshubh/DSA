@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 43 | 29 | 14 | 0 |
+| LeetCode | 44 | 29 | 15 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **43** | **29** | **14** | **0** |
+| **Total** | **44** | **29** | **15** | **0** |
 
 ## Solved Problems
 
@@ -58,4 +58,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 41 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
 | 42 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
 | 43 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
+| 44 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/740_DeleteAndEarn.cpp) |
 <!-- COMMITDSA_END -->
