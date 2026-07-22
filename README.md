@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 54 | 35 | 19 | 0 |
+| LeetCode | 55 | 35 | 20 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **54** | **35** | **19** | **0** |
+| **Total** | **55** | **35** | **20** | **0** |
 
 ## Solved Problems
 
@@ -69,4 +69,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 52 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
 | 53 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
 | 54 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/740_DeleteAndEarn.cpp) |
+| 55 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/875_KokoEatingBananas.cpp) |
 <!-- COMMITDSA_END -->
