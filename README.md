@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 61 | 41 | 20 | 0 |
+| LeetCode | 62 | 41 | 21 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **61** | **41** | **20** | **0** |
+| **Total** | **62** | **41** | **21** | **0** |
 
 ## Solved Problems
 
@@ -59,21 +59,22 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 42 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/16_3SumClosest.cpp) |
 | 43 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1657_DetermineIfTwoStringsAreClose.cpp) |
 | 44 | [18. 4Sum](https://leetcode.com/problems/4sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/18_4Sum.cpp) |
-| 45 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
-| 46 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/213_HouseRobberII.cpp) |
-| 47 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/221_MaximalSquare.cpp) |
-| 48 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2300_SuccessfulPairsOfSpellsAndPotions.cpp) |
-| 49 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.cpp) |
-| 50 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2390_RemovingStarsFromAString.cpp) |
-| 51 | [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3217_DeleteNodesFromLinkedListPresentInArray.cpp) |
-| 52 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
-| 53 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
-| 54 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/62_UniquePaths.cpp) |
-| 55 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/64_MinimumPathSum.cpp) |
-| 56 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
-| 57 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
-| 58 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
-| 59 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
-| 60 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/740_DeleteAndEarn.cpp) |
-| 61 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/875_KokoEatingBananas.cpp) |
+| 45 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/189_RotateArray.cpp) |
+| 46 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
+| 47 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/213_HouseRobberII.cpp) |
+| 48 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/221_MaximalSquare.cpp) |
+| 49 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2300_SuccessfulPairsOfSpellsAndPotions.cpp) |
+| 50 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.cpp) |
+| 51 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2390_RemovingStarsFromAString.cpp) |
+| 52 | [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3217_DeleteNodesFromLinkedListPresentInArray.cpp) |
+| 53 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
+| 54 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
+| 55 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/62_UniquePaths.cpp) |
+| 56 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/64_MinimumPathSum.cpp) |
+| 57 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
+| 58 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
+| 59 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
+| 60 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
+| 61 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/740_DeleteAndEarn.cpp) |
+| 62 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/875_KokoEatingBananas.cpp) |
 <!-- COMMITDSA_END -->
