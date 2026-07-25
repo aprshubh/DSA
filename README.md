@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 77 | 56 | 21 | 0 |
+| LeetCode | 78 | 57 | 21 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **77** | **56** | **21** | **0** |
+| **Total** | **78** | **57** | **21** | **0** |
 
 ## Solved Problems
 
@@ -57,39 +57,40 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 40 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/485_MaxConsecutiveOnes.cpp) |
 | 41 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/509_FibonacciNumber.cpp) |
 | 42 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/520_DetectCapital.cpp) |
-| 43 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/58_LengthOfLastWord.cpp) |
-| 44 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/605_CanPlaceFlowers.cpp) |
-| 45 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/645_SetMismatch.cpp) |
-| 46 | [66. Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/66_PlusOne.cpp) |
-| 47 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/67_AddBinary.cpp) |
-| 48 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/69_Sqrtx.cpp) |
-| 49 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/70_ClimbingStairs.cpp) |
-| 50 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
-| 51 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/724_FindPivotIndex.cpp) |
-| 52 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/744_FindSmallestLetterGreaterThanTarget.cpp) |
-| 53 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/746_MinCostClimbingStairs.cpp) |
-| 54 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/88_MergeSortedArray.cpp) |
-| 55 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/933_NumberOfRecentCalls.cpp) |
-| 56 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/977_SquaresOfASortedArray.cpp) |
-| 57 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/16_3SumClosest.cpp) |
-| 58 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1657_DetermineIfTwoStringsAreClose.cpp) |
-| 59 | [18. 4Sum](https://leetcode.com/problems/4sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/18_4Sum.cpp) |
-| 60 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/189_RotateArray.cpp) |
-| 61 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
-| 62 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/213_HouseRobberII.cpp) |
-| 63 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/221_MaximalSquare.cpp) |
-| 64 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2300_SuccessfulPairsOfSpellsAndPotions.cpp) |
-| 65 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.cpp) |
-| 66 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2390_RemovingStarsFromAString.cpp) |
-| 67 | [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3217_DeleteNodesFromLinkedListPresentInArray.cpp) |
-| 68 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
-| 69 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
-| 70 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/62_UniquePaths.cpp) |
-| 71 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/64_MinimumPathSum.cpp) |
-| 72 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
-| 73 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
-| 74 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
-| 75 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
-| 76 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/740_DeleteAndEarn.cpp) |
-| 77 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/875_KokoEatingBananas.cpp) |
+| 43 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/557_ReverseWordsInAStringIII.cpp) |
+| 44 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/58_LengthOfLastWord.cpp) |
+| 45 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/605_CanPlaceFlowers.cpp) |
+| 46 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/645_SetMismatch.cpp) |
+| 47 | [66. Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/66_PlusOne.cpp) |
+| 48 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/67_AddBinary.cpp) |
+| 49 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/69_Sqrtx.cpp) |
+| 50 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/70_ClimbingStairs.cpp) |
+| 51 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
+| 52 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/724_FindPivotIndex.cpp) |
+| 53 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/744_FindSmallestLetterGreaterThanTarget.cpp) |
+| 54 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/746_MinCostClimbingStairs.cpp) |
+| 55 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/88_MergeSortedArray.cpp) |
+| 56 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/933_NumberOfRecentCalls.cpp) |
+| 57 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/977_SquaresOfASortedArray.cpp) |
+| 58 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/16_3SumClosest.cpp) |
+| 59 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1657_DetermineIfTwoStringsAreClose.cpp) |
+| 60 | [18. 4Sum](https://leetcode.com/problems/4sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/18_4Sum.cpp) |
+| 61 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/189_RotateArray.cpp) |
+| 62 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
+| 63 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/213_HouseRobberII.cpp) |
+| 64 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/221_MaximalSquare.cpp) |
+| 65 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2300_SuccessfulPairsOfSpellsAndPotions.cpp) |
+| 66 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/238_ProductOfArrayExceptSelf.cpp) |
+| 67 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2390_RemovingStarsFromAString.cpp) |
+| 68 | [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3217_DeleteNodesFromLinkedListPresentInArray.cpp) |
+| 69 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
+| 70 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/56_MergeIntervals.cpp) |
+| 71 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/62_UniquePaths.cpp) |
+| 72 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/64_MinimumPathSum.cpp) |
+| 73 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/649_Dota2Senate.cpp) |
+| 74 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/73_SetMatrixZeroes.cpp) |
+| 75 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/735_AsteroidCollision.cpp) |
+| 76 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
+| 77 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/740_DeleteAndEarn.cpp) |
+| 78 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/875_KokoEatingBananas.cpp) |
 <!-- COMMITDSA_END -->
