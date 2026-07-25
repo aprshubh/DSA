@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 88 | 67 | 21 | 0 |
-| GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **88** | **67** | **21** | **0** |
+| GeeksforGeeks | 1 | 0 | 1 | 0 |
+| **Total** | **89** | **67** | **22** | **0** |
 
 ## Solved Problems
 
@@ -103,4 +103,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 86 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/739_DailyTemperatures.cpp) |
 | 87 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/740_DeleteAndEarn.cpp) |
 | 88 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/875_KokoEatingBananas.cpp) |
+| 89 | [Convert Sentence to Camel Case](https://practice.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_ConvertSentenceToCamelCase.cpp) |
 <!-- COMMITDSA_END -->
