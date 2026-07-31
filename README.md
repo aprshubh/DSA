@@ -7,13 +7,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 1 | 1 | 0 | 0 |
+| LeetCode | 2 | 1 | 1 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **1** | **1** | **0** | **0** |
+| **Total** | **2** | **1** | **1** | **0** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/1046_LastStoneWeight.cpp) |
+| 2 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/300_LongestIncreasingSubsequence.cpp) |
 <!-- COMMITDSA_END -->
