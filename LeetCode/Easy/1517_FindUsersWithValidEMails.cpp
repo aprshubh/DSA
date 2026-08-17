@@ -7,7 +7,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-# Write your MySQL query statement below
 SELECT *
 FROM Users
-WHERE mail REGEXP '^[A-Za-z][A-Za-z0-9_.-]*@leetcode\\.com$';
+WHERE mail REGEXP '^[A-Za-z][A-Za-z0-9_.-]*@leetcode\\.com$'
+  AND BINARY mail LIKE '%@leetcode.com';
+
