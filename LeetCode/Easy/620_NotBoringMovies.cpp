@@ -7,8 +7,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-# Write your MySQL query statement below
-select * from cinema 
-where id%2!=0 and description!='boring '
-order by id desc;
+SELECT *
+FROM Cinema
+WHERE id % 2 != 0
+  AND description != 'boring'
+ORDER BY rating DESC;
 
