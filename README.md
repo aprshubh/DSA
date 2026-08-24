@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 69 | 44 | 24 | 1 |
+| LeetCode | 70 | 44 | 25 | 1 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **69** | **44** | **24** | **1** |
+| **Total** | **70** | **44** | **25** | **1** |
 
 ## Solved Problems
 
@@ -75,13 +75,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 58 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2095_DeleteTheMiddleNodeOfALinkedList.cpp) |
 | 59 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/215_KthLargestElementInAnArray.cpp) |
 | 60 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/300_LongestIncreasingSubsequence.cpp) |
-| 61 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/347_TopKFrequentElements.cpp) |
-| 62 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/451_SortCharactersByFrequency.cpp) |
-| 63 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/550_GamePlayAnalysisIV.cpp) |
-| 64 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
-| 65 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/626_ExchangeSeats.cpp) |
-| 66 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/692_TopKFrequentWords.cpp) |
-| 67 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/912_SortAnArray.cpp) |
-| 68 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
-| 69 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
+| 61 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/334_IncreasingTripletSubsequence.cpp) |
+| 62 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/347_TopKFrequentElements.cpp) |
+| 63 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/451_SortCharactersByFrequency.cpp) |
+| 64 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/550_GamePlayAnalysisIV.cpp) |
+| 65 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
+| 66 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/626_ExchangeSeats.cpp) |
+| 67 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/692_TopKFrequentWords.cpp) |
+| 68 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/912_SortAnArray.cpp) |
+| 69 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
+| 70 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
 <!-- COMMITDSA_END -->
