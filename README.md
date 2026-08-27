@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 80 | 50 | 29 | 1 |
+| LeetCode | 81 | 50 | 30 | 1 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **80** | **50** | **29** | **1** |
+| **Total** | **81** | **50** | **30** | **1** |
 
 ## Solved Problems
 
@@ -92,7 +92,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 75 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/626_ExchangeSeats.cpp) |
 | 76 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/692_TopKFrequentWords.cpp) |
 | 77 | [78. Subsets](https://leetcode.com/problems/subsets/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/78_Subsets.cpp) |
-| 78 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/912_SortAnArray.cpp) |
-| 79 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
-| 80 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
+| 78 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/90_SubsetsII.cpp) |
+| 79 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/912_SortAnArray.cpp) |
+| 80 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
+| 81 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
 <!-- COMMITDSA_END -->
