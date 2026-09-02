@@ -1,0 +1,27 @@
+/**
+ * Problem Link : https://leetcode.com/problems/reverse-only-letters/
+ * Platform     : LeetCode
+ * Difficulty   : Easy
+ */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    string reverseOnlyLetters(string s) {
+
+        int left = 0;
+        int right = s.size()-1;
+        while(left< right ){
+            while(left<right && !isalpha(s[left])) left++;
+            while(left < right  && !isalpha(s[right])) right--;
+            if(left<right){
+                swap(s[left],s[right]);
+                left++;
+                right--;
+            }
+        }return s;
+        
+    }
+};
