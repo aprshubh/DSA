@@ -5,11 +5,11 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 ## Statistics
 
-| Platform | Total Solved | Easy | Medium | Hard |
-| --- | --- | --- | --- | --- |
-| LeetCode | 95 | 58 | 36 | 1 |
-| GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **95** | **58** | **36** | **1** |
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 95 | 58 | 36 | 1 | - |
+| GeeksforGeeks | 1 | 0 | 0 | 0 | 1 |
+| **Total** | **96** | **58** | **36** | **1** | **1** |
 
 ## Solved Problems
 
@@ -110,4 +110,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 93 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/912_SortAnArray.cpp) |
 | 94 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
 | 95 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
+| 96 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MaximumIntegerValue.cpp) |
 <!-- COMMITDSA_END -->
