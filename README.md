@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 105 | 61 | 43 | 1 | - |
+| LeetCode | 106 | 61 | 44 | 1 | - |
 | GeeksforGeeks | 2 | 1 | 0 | 0 | 1 |
-| **Total** | **107** | **62** | **43** | **1** | **1** |
+| **Total** | **108** | **62** | **44** | **1** | **1** |
 
 ## Solved Problems
 
@@ -115,11 +115,12 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 98 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/626_ExchangeSeats.cpp) |
 | 99 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/692_TopKFrequentWords.cpp) |
 | 100 | [78. Subsets](https://leetcode.com/problems/subsets/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/78_Subsets.cpp) |
-| 101 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/90_SubsetsII.cpp) |
-| 102 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/912_SortAnArray.cpp) |
-| 103 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
-| 104 | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/991_BrokenCalculator.cpp) |
-| 105 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
-| 106 | [Longest Common Prefix of Strings](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_LongestCommonPrefixOfStrings.cpp) |
-| 107 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MaximumIntegerValue.cpp) |
+| 101 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/873_LengthOfLongestFibonacciSubsequence.cpp) |
+| 102 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/90_SubsetsII.cpp) |
+| 103 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/912_SortAnArray.cpp) |
+| 104 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
+| 105 | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/991_BrokenCalculator.cpp) |
+| 106 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
+| 107 | [Longest Common Prefix of Strings](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_LongestCommonPrefixOfStrings.cpp) |
+| 108 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MaximumIntegerValue.cpp) |
 <!-- COMMITDSA_END -->
