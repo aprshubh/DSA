@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 108 | 61 | 46 | 1 | - |
+| LeetCode | 109 | 62 | 46 | 1 | - |
 | GeeksforGeeks | 2 | 1 | 0 | 0 | 1 |
-| **Total** | **110** | **62** | **46** | **1** | **1** |
+| **Total** | **111** | **63** | **46** | **1** | **1** |
 
 ## Solved Problems
 
@@ -59,70 +59,71 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 42 | [3852. Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/3852_SmallestPairWithDifferentFrequencies.cpp) |
 | 43 | [3861. Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/3861_MinimumCapacityBox.cpp) |
 | 44 | [3866. First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/3866_FirstUniqueEvenElement.cpp) |
-| 45 | [4020. Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/4020_ElevatorRequestsI.cpp) |
-| 46 | [4024. Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/4024_NearestAvailableDrone.cpp) |
-| 47 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/412_FizzBuzz.cpp) |
-| 48 | [415. Add Strings](https://leetcode.com/problems/add-strings/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/415_AddStrings.cpp) |
-| 49 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/507_PerfectNumber.cpp) |
-| 50 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/577_EmployeeBonus.cpp) |
-| 51 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/584_FindCustomerReferee.cpp) |
-| 52 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/595_BigCountries.cpp) |
-| 53 | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/596_ClassesWithAtLeast5Students.cpp) |
-| 54 | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/610_TriangleJudgement.cpp) |
-| 55 | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/619_BiggestSingleNumber.cpp) |
-| 56 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/620_NotBoringMovies.cpp) |
-| 57 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/703_KthLargestElementInAStream.cpp) |
-| 58 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
-| 59 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/872_LeafSimilarTrees.cpp) |
-| 60 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/905_SortArrayByParity.cpp) |
-| 61 | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/917_ReverseOnlyLetters.cpp) |
-| 62 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/102_BinaryTreeLevelOrderTraversal.cpp) |
-| 63 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/103_BinaryTreeZigzagLevelOrderTraversal.cpp) |
-| 64 | [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1045_CustomersWhoBoughtAllProducts.cpp) |
-| 65 | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1070_ProductSalesAnalysisIII.cpp) |
-| 66 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/11_ContainerWithMostWater.cpp) |
-| 67 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/113_PathSumII.cpp) |
-| 68 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1161_MaximumLevelSumOfABinaryTree.cpp) |
-| 69 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1174_ImmediateFoodDeliveryII.cpp) |
-| 70 | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1193_MonthlyTransactionsI.cpp) |
-| 71 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/142_LinkedListCycleII.cpp) |
-| 72 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1448_CountGoodNodesInBinaryTree.cpp) |
-| 73 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/151_ReverseWordsInAString.cpp) |
-| 74 | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1679_MaxNumberOfKSumPairs.cpp) |
-| 75 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/176_SecondHighestSalary.cpp) |
-| 76 | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/177_NthHighestSalary.cpp) |
-| 77 | [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/180_ConsecutiveNumbers.cpp) |
-| 78 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1934_ConfirmationRate.cpp) |
-| 79 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/199_BinaryTreeRightSideView.cpp) |
-| 80 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/200_NumberOfIslands.cpp) |
-| 81 | [2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2091_RemovingMinimumAndMaximumFromArray.cpp) |
-| 82 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2095_DeleteTheMiddleNodeOfALinkedList.cpp) |
-| 83 | [2139. Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2139_MinimumMovesToReachTargetScore.cpp) |
-| 84 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/215_KthLargestElementInAnArray.cpp) |
-| 85 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/300_LongestIncreasingSubsequence.cpp) |
-| 86 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/334_IncreasingTripletSubsequence.cpp) |
-| 87 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/347_TopKFrequentElements.cpp) |
-| 88 | [3871. Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3871_CountCommasInRangeII.cpp) |
-| 89 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/435_NonOverlappingIntervals.cpp) |
-| 90 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/437_PathSumIII.cpp) |
-| 91 | [443. String Compression](https://leetcode.com/problems/string-compression/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/443_StringCompression.cpp) |
-| 92 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/45_JumpGameII.cpp) |
-| 93 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/451_SortCharactersByFrequency.cpp) |
-| 94 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/49_GroupAnagrams.cpp) |
-| 95 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/50_PowxN.cpp) |
-| 96 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/54_SpiralMatrix.cpp) |
-| 97 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/55_JumpGame.cpp) |
-| 98 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/550_GamePlayAnalysisIV.cpp) |
-| 99 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
-| 100 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/626_ExchangeSeats.cpp) |
-| 101 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/692_TopKFrequentWords.cpp) |
-| 102 | [78. Subsets](https://leetcode.com/problems/subsets/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/78_Subsets.cpp) |
-| 103 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/873_LengthOfLongestFibonacciSubsequence.cpp) |
-| 104 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/90_SubsetsII.cpp) |
-| 105 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/912_SortAnArray.cpp) |
-| 106 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
-| 107 | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/991_BrokenCalculator.cpp) |
-| 108 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
-| 109 | [Longest Common Prefix of Strings](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_LongestCommonPrefixOfStrings.cpp) |
-| 110 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MaximumIntegerValue.cpp) |
+| 45 | [3870. Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/3870_CountCommasInRange.cpp) |
+| 46 | [4020. Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/4020_ElevatorRequestsI.cpp) |
+| 47 | [4024. Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/4024_NearestAvailableDrone.cpp) |
+| 48 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/412_FizzBuzz.cpp) |
+| 49 | [415. Add Strings](https://leetcode.com/problems/add-strings/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/415_AddStrings.cpp) |
+| 50 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/507_PerfectNumber.cpp) |
+| 51 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/577_EmployeeBonus.cpp) |
+| 52 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/584_FindCustomerReferee.cpp) |
+| 53 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/595_BigCountries.cpp) |
+| 54 | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/596_ClassesWithAtLeast5Students.cpp) |
+| 55 | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/610_TriangleJudgement.cpp) |
+| 56 | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/619_BiggestSingleNumber.cpp) |
+| 57 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/620_NotBoringMovies.cpp) |
+| 58 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/703_KthLargestElementInAStream.cpp) |
+| 59 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
+| 60 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/872_LeafSimilarTrees.cpp) |
+| 61 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/905_SortArrayByParity.cpp) |
+| 62 | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/917_ReverseOnlyLetters.cpp) |
+| 63 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/102_BinaryTreeLevelOrderTraversal.cpp) |
+| 64 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/103_BinaryTreeZigzagLevelOrderTraversal.cpp) |
+| 65 | [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1045_CustomersWhoBoughtAllProducts.cpp) |
+| 66 | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1070_ProductSalesAnalysisIII.cpp) |
+| 67 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/11_ContainerWithMostWater.cpp) |
+| 68 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/113_PathSumII.cpp) |
+| 69 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1161_MaximumLevelSumOfABinaryTree.cpp) |
+| 70 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1174_ImmediateFoodDeliveryII.cpp) |
+| 71 | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1193_MonthlyTransactionsI.cpp) |
+| 72 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/142_LinkedListCycleII.cpp) |
+| 73 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1448_CountGoodNodesInBinaryTree.cpp) |
+| 74 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/151_ReverseWordsInAString.cpp) |
+| 75 | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1679_MaxNumberOfKSumPairs.cpp) |
+| 76 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/176_SecondHighestSalary.cpp) |
+| 77 | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/177_NthHighestSalary.cpp) |
+| 78 | [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/180_ConsecutiveNumbers.cpp) |
+| 79 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1934_ConfirmationRate.cpp) |
+| 80 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/199_BinaryTreeRightSideView.cpp) |
+| 81 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/200_NumberOfIslands.cpp) |
+| 82 | [2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2091_RemovingMinimumAndMaximumFromArray.cpp) |
+| 83 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2095_DeleteTheMiddleNodeOfALinkedList.cpp) |
+| 84 | [2139. Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2139_MinimumMovesToReachTargetScore.cpp) |
+| 85 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/215_KthLargestElementInAnArray.cpp) |
+| 86 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/300_LongestIncreasingSubsequence.cpp) |
+| 87 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/334_IncreasingTripletSubsequence.cpp) |
+| 88 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/347_TopKFrequentElements.cpp) |
+| 89 | [3871. Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3871_CountCommasInRangeII.cpp) |
+| 90 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/435_NonOverlappingIntervals.cpp) |
+| 91 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/437_PathSumIII.cpp) |
+| 92 | [443. String Compression](https://leetcode.com/problems/string-compression/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/443_StringCompression.cpp) |
+| 93 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/45_JumpGameII.cpp) |
+| 94 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/451_SortCharactersByFrequency.cpp) |
+| 95 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/49_GroupAnagrams.cpp) |
+| 96 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/50_PowxN.cpp) |
+| 97 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/54_SpiralMatrix.cpp) |
+| 98 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/55_JumpGame.cpp) |
+| 99 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/550_GamePlayAnalysisIV.cpp) |
+| 100 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
+| 101 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/626_ExchangeSeats.cpp) |
+| 102 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/692_TopKFrequentWords.cpp) |
+| 103 | [78. Subsets](https://leetcode.com/problems/subsets/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/78_Subsets.cpp) |
+| 104 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/873_LengthOfLongestFibonacciSubsequence.cpp) |
+| 105 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/90_SubsetsII.cpp) |
+| 106 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/912_SortAnArray.cpp) |
+| 107 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
+| 108 | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/991_BrokenCalculator.cpp) |
+| 109 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
+| 110 | [Longest Common Prefix of Strings](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_LongestCommonPrefixOfStrings.cpp) |
+| 111 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MaximumIntegerValue.cpp) |
 <!-- COMMITDSA_END -->
