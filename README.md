@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 112 | 64 | 47 | 1 | - |
+| LeetCode | 113 | 64 | 47 | 2 | - |
 | GeeksforGeeks | 2 | 1 | 0 | 0 | 1 |
-| **Total** | **114** | **65** | **47** | **1** | **1** |
+| **Total** | **115** | **65** | **47** | **2** | **1** |
 
 ## Solved Problems
 
@@ -127,6 +127,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 110 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/973_KClosestPointsToOrigin.cpp) |
 | 111 | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/991_BrokenCalculator.cpp) |
 | 112 | [135. Candy](https://leetcode.com/problems/candy/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/135_Candy.cpp) |
-| 113 | [Longest Common Prefix of Strings](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_LongestCommonPrefixOfStrings.cpp) |
-| 114 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MaximumIntegerValue.cpp) |
+| 113 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/32_LongestValidParentheses.cpp) |
+| 114 | [Longest Common Prefix of Strings](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_LongestCommonPrefixOfStrings.cpp) |
+| 115 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MaximumIntegerValue.cpp) |
 <!-- COMMITDSA_END -->
