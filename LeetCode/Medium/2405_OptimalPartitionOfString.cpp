@@ -11,18 +11,18 @@ class Solution {
 public:
     int partitionString(string s) {
 
-        int count = 1;
+        int count = 0;
+        int i = 0;
 
         unordered_set<char> st;
-        for (char x : s) {
-            if (st.count(x)) {
-                st.clear();
-                st.insert(x);
-                count++;
-            } else {
-                st.insert(x);
-                
+        while(i<s.size()) {
+            unordered_set<char> st;
+            while (!st.count(s[i])) {
+
+                st.insert(s[i]);
+                i++;
             }
+            count++;
         }
         return count;
     }
